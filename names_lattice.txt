@@ -1,0 +1,14 @@
+l,l_,f1
+l,l_,f1,f1_
+l,l_,f1,f2
+l,l_,f1,f1_,f2
+l,l_,f1,f2,f2_
+l,l_,f1,f2,f3
+l,l_,f1,f1_,f2,f2_
+l,l_,f1,f1_,f2,f3
+l,l_,f1,f2,f2_,f3
+l,l_,f1,f2,f3,f3_
+l,l_,f1,f1_,f2,f2_,f3
+l,l_,f1,f1_,f2,f3,f3_
+l,l_,f1,f2,f2_,f3,f3_
+l,l_,f1,f1_,f2,f2_,f3,f3_

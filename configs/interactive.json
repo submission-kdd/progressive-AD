@@ -1,0 +1,38 @@
+{
+    "root_dir":     "",
+    "lat_file":     "names_lattice.txt",
+    "viz_file":     "semilattice.dot",
+    "name_db":      "some_names.db",
+    "feat_dir":     "featDBs/",
+    "sums_db":      null,
+
+    "is_names":     true,
+    "aggregate":    false,
+
+    "milojevic":    false,
+
+    "only_rIDs":    true,
+    "no_none":      false,
+
+    "mode":         "interface",
+    "same_file":    "similarities_same.txt",
+    "diff_file":    "similarities_diff.txt",
+
+    "smooth":       0.0000001,
+    "thr":          1.0,
+    "min_pts":      2,
+    "num_rdm":      1,
+
+    "step":         0.0025,
+    "max_size":     5000,
+
+    "hack":         1000.0,
+
+    "thr_f":        "logi",
+
+    "eps":          0.03,
+    "z":            0.075,
+    "r":            0.075,
+
+    "tuning":       false
+}
